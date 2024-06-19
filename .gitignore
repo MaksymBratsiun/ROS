@@ -1,0 +1,11 @@
+.idea
+__pycache__
+.env
+.idea/vcs.xml
+.idea/news_scrap.iml
+*.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+api.py
+poetry.lock
+pyproject.toml
